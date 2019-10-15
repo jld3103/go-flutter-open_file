@@ -1,4 +1,4 @@
-module github.com/jld3103/open_file/go
+module github.com/jld3103/go-flutter-open_file
 
 go 1.13
 
